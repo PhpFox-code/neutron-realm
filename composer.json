@@ -1,0 +1,25 @@
+{
+  "name": "codelego/phpfox-realm",
+  "description": "Real-time messages transfer layer interface for phpfox framework.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nam Nguyen",
+      "email": "nam.ngvan@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Phpfox\\Rmtl\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Phpfox\\Rmtl\\": "test/"
+    }
+  },
+  "require": {
+  }
+}

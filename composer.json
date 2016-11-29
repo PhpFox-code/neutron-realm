@@ -1,5 +1,5 @@
 {
-  "name": "codelego/phpfox-realm",
+  "name": "codelego/neutron-realm",
   "description": "Real-time messages transfer layer interface for phpfox framework.",
   "type": "library",
   "license": "MIT",

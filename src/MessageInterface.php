@@ -1,5 +1,5 @@
 <?php
-namespace Phpfox\Rmtl;
+namespace Neutron\Rmtl;
 
 interface MessageInterface
 {

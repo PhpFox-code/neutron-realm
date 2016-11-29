@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\Rmtl;
+namespace Neutron\Rmtl;
 
 class PullingPushService
 {
